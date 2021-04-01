@@ -19,7 +19,7 @@
   
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilelagit/PicPay_Interface?style=for-the-badge">
+  <img alt="GitHub top language" src="https://camo.githubusercontent.com/e1d38e8bbaebe63fc2bf6890fc781e843cf2672295612f5504c171bbbb757e37/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f76696c656c616769742f5069635061795f496e746572666163653f7374796c653d666f722d7468652d6261646765">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vilelagit/PicPay_Interface?style=for-the-badge">
   <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/a7e0a78f921646f38c248395026ccafd?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vilelagit/PicPay_Interface?style=for-the-badge">
